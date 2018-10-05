@@ -167,5 +167,8 @@ Gulp: `gulp server`
 ## Live reload 
 This project uses BrowserSync as static server with enabled and configured live reload option.
 
+# Importance
+this is very helpful
+
 ## License
 [MIT](https://github.com/website-templates/marketing-agency_one-page-template/blob/master/LICENSE.md)
